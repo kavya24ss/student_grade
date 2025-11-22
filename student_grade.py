@@ -20,4 +20,4 @@ else:
     grade = "Fail"
 
 print("Average:", avg)
-print("Grade:", grade)'
+print("Grade:", grade)
